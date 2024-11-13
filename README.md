@@ -25,7 +25,7 @@ Lalu coba kita isikan selain angka di textfield nya maka tidak bisa tertulis, in
 Lalu jika kita pencet textfield 1 maka otomatis akan terhapus karena ada FocusListener nya.
 ![App Screenshot](https://github.com/user-attachments/assets/6a8e6ecf-c1ae-4ab9-b350-d6e8e24ebabe)<br>
 
-Dan juga untuk TextField 2, jika kita pencet textfield 2 maka otomatis akan terhapus juga karena ada FocusListener nya.
+Dan juga untuk TextField 2, jika kita pencet textfield 2 maka otomatis akan terhapus juga karena ada FocusListener nya.<br>
 ![App Screenshot](https://github.com/user-attachments/assets/ebf6d16b-51ca-422d-83e9-31c5eadec350)
 
 
